@@ -18,3 +18,4 @@
 2023-01-19T00:00:00 - docs: update install guide
 2023-01-19T00:00:00 - test: improve coverage
 2023-01-19T00:00:00 - refactor: modularize
+2023-01-19T00:00:00 - fix: handle edge cases
