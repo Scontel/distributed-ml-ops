@@ -746,3 +746,4 @@
 2024-06-14T00:00:00 - fix: resolve bug
 2024-06-17T00:00:00 - perf: speed up inference
 2024-06-17T00:00:00 - test: add integration tests
+2024-06-17T00:00:00 - docs: update install guide
