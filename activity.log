@@ -826,3 +826,4 @@
 2024-07-30T00:00:00 - test: improve coverage
 2024-07-30T00:00:00 - docs: update install guide
 2024-07-30T00:00:00 - perf: speed up inference
+2024-07-31T00:00:00 - fix: correct model training
