@@ -1107,3 +1107,4 @@
 2025-02-20T00:00:00 - style: fix formatting
 2025-02-20T00:00:00 - refactor: clean up code
 2025-02-20T00:00:00 - perf: speed up inference
+2025-02-21T00:00:00 - perf: reduce memory
