@@ -1143,3 +1143,4 @@
 2025-03-06T00:00:00 - style: fix formatting
 2025-03-06T00:00:00 - perf: speed up inference
 2025-03-06T00:00:00 - perf: reduce memory
+2025-03-07T00:00:00 - perf: speed up inference
