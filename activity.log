@@ -1512,3 +1512,4 @@
 2025-12-10T00:00:00 - perf: speed up inference
 2025-12-11T00:00:00 - test: add integration tests
 2025-12-11T00:00:00 - style: fix formatting
+2025-12-11T00:00:00 - refactor: modularize
