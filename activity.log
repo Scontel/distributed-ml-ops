@@ -1623,3 +1623,4 @@
 2026-02-25T00:00:00 - test: add integration tests
 2026-02-26T00:00:00 - style: fix formatting
 2026-02-26T00:00:00 - style: fix formatting
+2026-02-27T00:00:00 - perf: speed up inference
